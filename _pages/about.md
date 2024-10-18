@@ -6,7 +6,7 @@ subtitle: Associate Professor (ARC Future Fellow) <br></br> <a href='http://www.
 
 profile:
   align: right
-  image: JQ-Print.jpg
+  image: JQi-Print.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     # <p>Email:[my first name] dot [my last name]@unimelb.edu.au</p>
