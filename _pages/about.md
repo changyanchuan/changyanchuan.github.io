@@ -22,11 +22,12 @@ My name is Jianzhong Qi, XXX.
 
 My general research area is data management, and my research concerns fundamental algorithms for spatial, temporal, geo-textual, and textual data, including data indexing, query and update processing, and machine learning.
 
-`I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
 
 **Email:** [my first name] dot [my last name]@unimelb.edu.au
 
 **Address:** Level 3, Room 3325, Melbourne Connect (Building 290), The University of Melbourne, 700 Swanston Street, Parkville, VIC 3010
+
+`I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
 
 
 
