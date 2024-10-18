@@ -18,6 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<br></br>
+<br></br>
+<br></br>
+
 My name is Jianzhong Qi, XXX.
 
 My general research area is data management, and my research concerns fundamental algorithms for spatial, temporal, geo-textual, and textual data, including data indexing, query and update processing, and machine learning.
