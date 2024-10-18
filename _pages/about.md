@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor (ARC Future Fellow) <br></br> <a href='http://www.cis.unimelb.edu.au/'>School of Computing and Information Systems</a> <a href='http://www.unimelb.edu.au/'>The University of Melbourne</a> 
+subtitle: Associate Professor (ARC Future Fellow) <br></br> <a href='http://www.cis.unimelb.edu.au/'>School of Computing and Information Systems</a> <br></br> <a href='http://www.unimelb.edu.au/'>The University of Melbourne</a> 
 
 profile:
   align: right
@@ -25,6 +25,7 @@ My general research area is data management, and my research concerns fundamenta
 `I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
 
 **Email:** [my first name] dot [my last name]@unimelb.edu.au
+
 **Address:** Level 3, Room 3325, Melbourne Connect (Building 290), The University of Melbourne, 700 Swanston Street, Parkville, VIC 3010
 
 
