@@ -6,7 +6,7 @@ subtitle: Associate Professor (ARC Future Fellow) <br></br> <a href='http://www.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JQ-Print.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     # <p>Email:[my first name] dot [my last name]@unimelb.edu.au</p>
@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<br></br>
-<br></br>
-<br></br>
+<br />
+
+<br />
 
 My name is Jianzhong Qi, XXX.
 
